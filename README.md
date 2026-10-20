@@ -1,3 +1,6 @@
+<img width="1470" height="956" alt="Screenshot 2026-10-20 at 2 12 14 PM" src="https://github.com/user-attachments/assets/3a4fd0b6-dc04-4a9c-8286-7e9f4391c328" />
+
+
 # Hybrid RAG & Web Search Agent
 
 This repository contains the implementation of an intelligent, autonomous **Hybrid Agent** capable of answering queries by dynamically choosing between private indexed knowledge (Retrieval-Augmented Generation) and real-time public web search.
